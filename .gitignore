@@ -1,0 +1,16 @@
+venv_datahub
+db.sqlite3
+.env
+permadata-455520-firebase-adminsdk-fbsvc-29f0edefa2.json
+__pycache__/
+*.pyc
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+api.http
+login.html
+.vscode
+firebase-adminsdk.json
+settings_.py
